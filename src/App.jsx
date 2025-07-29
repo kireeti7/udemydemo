@@ -12,7 +12,7 @@ function App() {
 
   function handleSelect(SubmitButton) {
         setSelectedTopic(SubmitButton);
-        console.log(selectedTopic);
+        console.log(selectedTopic); 
     }
   return (
     <div>
